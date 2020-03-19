@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FPOC"
+    id="EAID_0246053F_C634_45d1_AA45_BAB84E88E016"
+    documentation="FPOC Fraud Prevention Operation Center tool. Developed to monitor and prevent diffrent fraud threats i.e. Trojans. The system is aimed to be integrated to IKP/IKF mobile Apps (IKP/IKF) C&amp;I Online and Kassa/Boka. Related to sytem FLIPP (transaktion logging)"/>

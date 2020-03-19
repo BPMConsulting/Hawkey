@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CuRT Counterparty Registration Tool"
+    id="EAID_02E71996_B525_493b_ADED_5A6EED909378"
+    documentation="New application/interface to support a new Static Data Maintenance Process. The suggested future state solution for the Static Data Maintenance Process is that the existing registration form (A6898) is to be replaced by an interface to Kurre where the Business Units can register information corresponding to the registration form (A6898) directly."/>

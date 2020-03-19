@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Contact Manager"
+    id="EAID_028CB0A7_2B23_4623_86FF_189E7AADA034"
+    documentation="Contact Manager (CM) is an agent application that runs locally on the workstations at Call Center in Gothenburg. For verification of the calling customer CM uses a gateway to EMS and the EMS application CTI that will handle the request further to backbone and application Egis. When the customer is verified the personnel at Contact Center can go on serving the matter with the customer. The application interacts with Solidus e-care NICE voice recording and S�ljst�d. CTI an EMS Telephony server for KC (Kundcenter GBG)"/>

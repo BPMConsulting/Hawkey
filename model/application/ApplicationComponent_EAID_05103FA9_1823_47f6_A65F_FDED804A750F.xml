@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CREED"
+    id="EAID_05103FA9_1823_47f6_A65F_FDED804A750F"
+    documentation="E-banking system used by international private banking and investor services clients in Luxembourg and Singapore. Java based responsive web application used by end customers to access their accounts and portfolios but also to make cash transfers, place stock exchange orders and communicate securely with the bank."/>

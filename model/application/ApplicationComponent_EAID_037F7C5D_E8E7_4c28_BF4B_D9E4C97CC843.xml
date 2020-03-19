@@ -1,0 +1,18 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bloomberg"
+    id="EAID_037F7C5D_E8E7_4c28_BF4B_D9E4C97CC843"
+    documentation="Front office system for delivers financial realtime information. Bond futures and Repo trading. (Fixed Income products)">
+  <properties
+      key="Compartment"
+      value="Trading"/>
+  <properties
+      key="SystemID"
+      value="20"/>
+  <properties
+      key="SystemLifecycleDecision"
+      value="Keep as is"/>
+  <properties
+      key="SystemLifecycleStatus"
+      value="Production"/>
+</archimate:ApplicationComponent>

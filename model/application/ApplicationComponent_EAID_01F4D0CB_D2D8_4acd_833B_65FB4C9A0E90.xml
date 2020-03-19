@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MB Credit Process System (CPS)"
+    id="EAID_01F4D0CB_D2D8_4acd_833B_65FB4C9A0E90"
+    documentation="Internal system that support LC&amp;FIs Credit Process and creates credit memorandums with proposals of limits to Group Credits including an Annual Review of all existing limits."/>

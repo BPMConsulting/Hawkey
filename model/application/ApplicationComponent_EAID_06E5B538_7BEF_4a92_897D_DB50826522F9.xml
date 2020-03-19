@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SIR-Securities Information Receiver"
+    id="EAID_06E5B538_7BEF_4a92_897D_DB50826522F9"
+    documentation="VPC har utvecklat tj�nsten Securities Information d�r informationsprodukter om v�rdepapper corporate actions samt emittentuppgifter tillhandah�lls via ett XML-gr�nssnitt. I Securities Information har VPC omarbetat och kompletterat informationen i dessa filer till ca 50 separata produkter. Varje produkt redovisas i en egen fil i XML-format. SIR applikationen h�mtar dessa XML-filer enligt ett f�rutbest�mt dagligt schema berabetar filer skapar flata filer som med FTP skickas till VISIR i stordatorn."/>

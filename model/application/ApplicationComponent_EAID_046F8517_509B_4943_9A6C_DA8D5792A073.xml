@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Börs och Finans"
+    id="EAID_046F8517_509B_4943_9A6C_DA8D5792A073"
+    documentation="Börs&amp;Finans On Corp1(SEBNet) and AD7(GateNet) the information is feed via fiber to Rissne directly from Six and a feed by fiber to Grytet from SIX. Our service provider is SIX Telekurs AB and everything is realtime. The information is used by Insite IBx seb.se and other system handling securities information such as VISIR."/>

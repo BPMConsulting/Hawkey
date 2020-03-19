@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MDR (Market Data Reader)"
+    id="EAID_03D1EA86_F265_4343_A0D8_BAC4303DAE87"
+    documentation="Local hub in Germany to distribute market data from AHS and other sources to local systems (e.g. Legal Reporting SAP Daily P/L ...)"/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Alphacom"
+    id="EAID_061F0C39_5D69_4c86_BB5E_2E4F4FBF1FAB"
+    documentation="AlphaCom is an intercom communication exchange and a part of the IT solutions for physical security. It is connected to Situator system through Stentofon integration gateway. Intercom stations are used for voice communication. They are communicating through Alphacom appliance. AlphaPro is application that is used to configure Alphacom servers."/>

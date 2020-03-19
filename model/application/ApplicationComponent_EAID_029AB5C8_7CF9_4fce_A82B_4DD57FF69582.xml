@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Potentialkortet"
+    id="EAID_029AB5C8_7CF9_4fce_A82B_4DD57FF69582"
+    documentation="Potentialkortet is a sales analysis and planning tool for the Swedish Retail Bank specifically for Client Executives and their Branchoffice Managers. Potentialkortet is based on a statistical model which compares SEB's current earnings with the potential earnings on customers and suggests sales strategies and support for prioritization of sales work. Potentialkortet is a pure web frontend and requires the CRM Mart backend to function - it only reads information from the CRM Mart."/>

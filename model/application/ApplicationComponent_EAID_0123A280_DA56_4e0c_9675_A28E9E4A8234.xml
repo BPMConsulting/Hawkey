@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Analytics Online"
+    id="EAID_0123A280_DA56_4e0c_9675_A28E9E4A8234"
+    documentation="Analytics access via link in C&amp;I Online. The main purpose of the Analytics is to provide an overview of the liquidity positions across currencies, geographies and banks and their account structures and related information; as well as provide posibiliteis to do trend analysis and simulations for different selections of interest."/>

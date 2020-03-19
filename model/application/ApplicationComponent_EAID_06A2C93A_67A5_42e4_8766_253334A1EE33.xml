@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="German Standing Orders"
+    id="EAID_06A2C93A_67A5_42e4_8766_253334A1EE33"
+    documentation="System that manages SEPA standing orders for customers in Frankfurt. Administration of Standing orders are made by operations by client requests in the Internal Front Application (IFA)"/>

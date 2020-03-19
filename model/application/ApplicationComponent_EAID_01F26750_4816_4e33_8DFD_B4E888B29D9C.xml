@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="VPMAK"
+    id="EAID_01F26750_4816_4e33_8DFD_B4E888B29D9C"
+    documentation="VPMAK access. VPMAK recieve all Cancelations in FANSY. Calculate profit or loss. Deliver to SEBDEB. Kontaktperson: Bodil Ahl�n ( VPC-gruppen)"/>
